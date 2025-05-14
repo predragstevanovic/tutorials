@@ -773,7 +773,7 @@
         <commons.io.version>2.5</commons.io.version>
         <commons.dbutils.version>1.6</commons.dbutils.version>
         <h2.version>1.4.196</h2.version>
-        <jetty.version>9.4.8.v20171121</jetty.version>
+        <jetty.version>9.4.56.v20240826</jetty.version>
         <httpclient.version>4.5.3</httpclient.version>
         <commons.io.version>2.5</commons.io.version>
         <flink.version>1.2.0</flink.version>
