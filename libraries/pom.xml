@@ -814,7 +814,7 @@
         <kafka.version>1.0.0</kafka.version>
         <smooks.version>1.7.0</smooks.version>
         <docker.version>3.0.14</docker.version>
-        <tomcat.version>8.5.24</tomcat.version>
+        <tomcat.version>9.0.107</tomcat.version>
         <async.http.client.version>2.2.0</async.http.client.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
     </properties>
