@@ -289,7 +289,7 @@
         <streamex.version>0.6.5</streamex.version>
 
         <!-- testing -->
-        <assertj.version>3.6.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <avaitility.version>1.7.0</avaitility.version>
 
     </properties>
